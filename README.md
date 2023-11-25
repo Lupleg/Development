@@ -38,7 +38,7 @@ to save more time and design efforts :)
 | -                       | ✔ Design files (sketch & figma) - for Standard Plus and Extended license 
 | -                       | ✔ Complete users flows                                                   
 
-## Quick start
+## Quick start now
 
 - [Download from Github](https://github.com/devias-io/material-kit-react/archive/master.zip)
   or [Download from Devias](https://devias.io/products/material-kit-react) or clone the
